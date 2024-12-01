@@ -1,4 +1,4 @@
-<h3 align="center">PhilCare</h3>
+<h3 align="center">PhilCare-LOA-WS</h3>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -8,12 +8,12 @@
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- React.js
-- Material UI
-- Axios
-- Vite
-- Data grid
-- React Router
+- Nodejs
+- Express
+- Sequelize
+- JWT
+- dotenv
+- CORS
 
 ## <a name="features">🔋 Features</a>
 
@@ -30,6 +30,7 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
+- [PostgreSQL](https://www.postgresql.org/)
 
 **Cloning the Repository**
 
@@ -66,4 +67,4 @@ VITE_APPWRITE_SAVES_COLLECTION_ID=
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:3000) in your browser to view the project.
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
